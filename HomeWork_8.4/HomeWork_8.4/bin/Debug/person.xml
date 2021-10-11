@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Person name="Усетов Дамир Ерболович">
+  <Address>
+    <Street>Кажымукана</Street>
+    <HouseNumber>20</HouseNumber>
+    <FlatNumber>70</FlatNumber>
+  </Address>
+  <Phones>
+    <MobilePhone>87076699029</MobilePhone>
+    <FlatPhone>22216</FlatPhone>
+  </Phones>
+</Person>
